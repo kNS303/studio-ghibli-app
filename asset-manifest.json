@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/studio-ghibli-app/static/css/main.513ab203.chunk.css",
+    "main.js": "/studio-ghibli-app/static/js/main.4d43f40e.chunk.js",
+    "main.js.map": "/studio-ghibli-app/static/js/main.4d43f40e.chunk.js.map",
+    "runtime-main.js": "/studio-ghibli-app/static/js/runtime-main.25e1036c.js",
+    "runtime-main.js.map": "/studio-ghibli-app/static/js/runtime-main.25e1036c.js.map",
+    "static/js/2.29025051.chunk.js": "/studio-ghibli-app/static/js/2.29025051.chunk.js",
+    "static/js/2.29025051.chunk.js.map": "/studio-ghibli-app/static/js/2.29025051.chunk.js.map",
+    "index.html": "/studio-ghibli-app/index.html",
+    "static/css/main.513ab203.chunk.css.map": "/studio-ghibli-app/static/css/main.513ab203.chunk.css.map",
+    "static/js/2.29025051.chunk.js.LICENSE.txt": "/studio-ghibli-app/static/js/2.29025051.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25e1036c.js",
+    "static/js/2.29025051.chunk.js",
+    "static/css/main.513ab203.chunk.css",
+    "static/js/main.4d43f40e.chunk.js"
+  ]
+}
