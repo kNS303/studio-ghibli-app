@@ -1,0 +1,37 @@
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.ul {
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    
+    font-size: large;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
+.text {
+    padding: 10px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+img {
+    max-width: 80%;
+    
+}
+
+.imgFilm {
+    margin-top: 20px;
+    max-width: 80%;
+    border: solid 6px wheat;
+}
